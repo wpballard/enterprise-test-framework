@@ -8,7 +8,7 @@ Lots of cleanup planned summer 2016 for this lightweight test automation framewo
 
 MIT License
 
-Copyright (c) 2016 William Ballard
+Copyright (c) 2016 Bill Mallard
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
