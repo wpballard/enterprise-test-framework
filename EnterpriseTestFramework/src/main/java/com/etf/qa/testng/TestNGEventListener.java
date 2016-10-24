@@ -13,10 +13,10 @@ import org.testng.Reporter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.dexmedia.qa.common.Global;
-import com.dexmedia.qa.common.rally.RallyReporter;
-import com.dexmedia.qa.common.rally.RallyTestCase;
-import com.dexmedia.qa.common.webdriver.ScreenShotFactory;
+import com.etf.qa.common.Global;
+import com.etf.qa.rally.RallyReporter;
+import com.etf.qa.rally.RallyTestCase;
+import com.etf.qa.webdriver.ScreenShotFactory;
 
 
 
